@@ -2,72 +2,78 @@
 <h3 align="center">🚀 UI/UX Designer | Frontend Developer | SIH 2025 Winner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX+Designer;Frontend+Developer;React+%7C+Django;Building+Cool+Interfaces🔥&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Design.+Build.+Repeat.;UI/UX+Specialist;React+%7C+Django+Developer;Creating+Next+Gen+Interfaces🔥&center=true&width=550&height=50">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🏆 SIH 2025 Winner (MoSJE)
-- 💻 UI/UX & Frontend Developer Intern @ Object Square
-- 🎨 Passionate about clean UI & smooth UX
-- 🚀 Love building scalable and real-world impactful products
-- 🌱 Currently exploring: Advanced React & Django
+### 🚀 About Me
+- 🏆 SIH 2025 Winner  
+- 💻 UI/UX & Frontend Developer  
+- 🎨 Obsessed with clean UI & smooth UX  
+- ⚡ Building real-world impactful products  
 
 ---
 
 ### 🛠️ Tech Stack
-💻 Languages  
-HTML • CSS • JavaScript • Python  
-
-⚙️ Frameworks & Tools  
-React.js • Django • Flask • Node.js • Tailwind CSS  
-
-🎨 Design  
-Figma • Canva  
-
-🗄️ Database  
-MongoDB  
-
----
-
-### 🚀 Featured Projects
-🔹 AI Waste Management System  
-→ Smart waste classification + analytics dashboard  
-
-🔹 I-POT Plant Monitoring  
-→ Real-time plant health monitoring system  
-
-🔹 Web Design Projects  
-→ E-commerce • Restaurant • Travel UI  
-
----
-
-### 🏆 Achievements
-🥇 Smart India Hackathon 2025 Winner  
-🏛️ Ministry of Social Justice & Empowerment  
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayur546411-design&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayur546411-design&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,django,flask,nodejs,mongodb,python,git,github,figma" />
+</p>
+
+---
+
+### 🔥 Contribution Graph (Animated Snake)
+<p align="center">
+  <img src="https://github.com/ayur546411-design/ayur546411-design/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📊 GitHub Stats (Animated Look)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayur546411-design&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayur546411-design&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayur546411-design&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayur546411-design&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayur546411-design&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
-📧 ayushkumar5464@gmail.com  
-📍 Bilaspur, Chhattisgarh  
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayur546411-design&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-<p align="center">✨ "Design is intelligence made visible." ✨</p>
+### 💡 Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:ayushkumar5464@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ "First we design, then we build." ✨</p>
