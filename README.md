@@ -12,19 +12,47 @@
 ---
 
 ### 🚀 About Me
-- 🏆 SIH 2025 Winner  
-- 💻 UI/UX & Frontend Developer  
-- 🎨 Obsessed with clean UI & smooth UX  
-- ⚡ Building real-world impactful products  
+---
+
+## 💼 Experience
+
+### 💻 Software Development Engineer (SDE) Intern @ Adobe
+- 🚀 Built scalable frontend & backend features using React.js, TypeScript, Node.js & REST APIs.
+- 🎨 Developed AI-powered image editing features using Adobe Firefly API & Adobe Express SDK.
+- ♿ Improved accessibility with WCAG-compliant components.
+- ⚡ Worked on real-time collaboration, analytics dashboards & CI/CD workflows.
+
+### 🚀 Summer Intern @ India Space Lab (ISL)
+- 🛰️ Drone Technology
+- 🚀 CanSat Development
+- 🌍 Remote Sensing & GIS
+- 🔥 Disaster Management
+
+### 🎨 UI/UX & Frontend Developer @ Object Square
+- Designed responsive UI using Figma & Canva.
+- Developed React.js + Tailwind applications.
+- Integrated REST APIs and improved performance.
 
 ---
+---
+
+## 🏆 Achievements
+
+🥇 Smart India Hackathon (SIH) 2025 Winner
+
+🚀 India Space Lab Summer Internship 2026
+
+🏅 IEEE Hackathon Finalist
+
+💡 National Hackathon – VeriLex AI Project
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,django,flask,nodejs,mongodb,python,git,github,figma" />
-</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,tailwind,nodejs,express,django,flask,fastapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,git,github,figma,postman,vscode,androidstudio,linux,aws,tensorflow,opencv" />
+</p>
 
 ### 🔥 Contribution Graph (Animated Snake)
 <p align="center">
