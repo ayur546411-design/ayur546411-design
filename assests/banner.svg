@@ -1,0 +1,102 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1021"/>
+      <stop offset="55%" stop-color="#111834"/>
+      <stop offset="100%" stop-color="#161F42"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F2A65A"/>
+      <stop offset="100%" stop-color="#3ED6B5"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#FFFFFF" opacity="0.06"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3ED6B5" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#3ED6B5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <circle cx="990" cy="150" r="230" fill="url(#glow)"/>
+
+  <!-- faint developer glyphs -->
+  <text x="915" y="80" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="22" fill="#8B93B0" opacity="0.16">&lt;/&gt;</text>
+  <text x="1110" y="235" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="18" fill="#8B93B0" opacity="0.14">{ }</text>
+  <text x="1000" y="270" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8B93B0" opacity="0.12">WCAG</text>
+
+  <!-- name block -->
+  <text x="70" y="98" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#F5F7FA" letter-spacing="0.5">Ayush Kumar</text>
+  <rect x="71" y="112" width="64" height="5" rx="2.5" fill="url(#accentBar)"/>
+
+  <text x="70" y="138" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="15" fill="#8B93B0">Full-Stack Developer &amp; Software Developer &#8226; Building accessible, AI-powered products</text>
+
+  <!-- editor window -->
+  <g>
+    <rect x="70" y="158" width="600" height="80" rx="12" fill="#0F1530" stroke="#232B4D" stroke-width="1.5"/>
+    <!-- title bar -->
+    <rect x="70" y="158" width="600" height="26" rx="12" fill="#141B3A"/>
+    <rect x="70" y="172" width="600" height="12" fill="#141B3A"/>
+    <circle cx="90" cy="171" r="5" fill="#FF5F56"/>
+    <circle cx="108" cy="171" r="5" fill="#FFBD2E"/>
+    <circle cx="126" cy="171" r="5" fill="#27C93F"/>
+    <text x="370" y="175" text-anchor="middle" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#5C6690">whoami.ts</text>
+
+    <!-- prompt -->
+    <text x="88" y="215" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="17" fill="#3ED6B5">&gt;</text>
+
+    <!-- rotating phrases -->
+    <g font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="17" fill="#F5F7FA">
+      <text x="108" y="215" opacity="0">
+        SDE Intern @ Adobe
+        <animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite"
+          keyTimes="0;0.025;0.225;0.25;1" values="0;1;1;0;0"/>
+      </text>
+      <text x="108" y="215" opacity="0">
+        Building accessible, AI-powered tools
+        <animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite"
+          keyTimes="0;0.25;0.275;0.475;0.5;1" values="0;0;1;1;0;0"/>
+      </text>
+      <text x="108" y="215" opacity="0">
+        React &#8226; TypeScript &#8226; Node.js
+        <animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite"
+          keyTimes="0;0.5;0.525;0.725;0.75;1" values="0;0;1;1;0;0"/>
+      </text>
+      <text x="108" y="215" opacity="0">
+        Co-Lead, GDGC &#8226; GFG Senior Member
+        <animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite"
+          keyTimes="0;0.75;0.775;0.975;1" values="0;0;1;1;0"/>
+      </text>
+    </g>
+
+    <!-- blinking cursor -->
+    <rect x="440" y="202" width="9" height="16" fill="#F2A65A">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- document + accessibility motif -->
+  <g transform="translate(870,90)" stroke="#3ED6B5" stroke-width="2.5" fill="none" opacity="0.9">
+    <path d="M20 0 H90 L120 30 V150 A10 10 0 0 1 110 160 H20 A10 10 0 0 1 10 150 V10 A10 10 0 0 1 20 0 Z"/>
+    <path d="M90 0 V30 H120" />
+    <line x1="30" y1="60" x2="100" y2="60" stroke-opacity="0.6"/>
+    <line x1="30" y1="80" x2="100" y2="80" stroke-opacity="0.6"/>
+    <line x1="30" y1="100" x2="75" y2="100" stroke-opacity="0.6"/>
+  </g>
+  <g transform="translate(945,175)">
+    <circle cx="30" cy="30" r="30" fill="#0F1530" stroke="#F2A65A" stroke-width="2.5"/>
+    <circle cx="30" cy="18" r="7" fill="none" stroke="#F2A65A" stroke-width="2.5"/>
+    <line x1="14" y1="32" x2="46" y2="32" stroke="#F2A65A" stroke-width="2.5"/>
+    <line x1="30" y1="32" x2="30" y2="46" stroke="#F2A65A" stroke-width="2.5"/>
+    <line x1="30" y1="38" x2="18" y2="50" stroke="#F2A65A" stroke-width="2.5"/>
+    <line x1="30" y1="38" x2="42" y2="50" stroke="#F2A65A" stroke-width="2.5"/>
+  </g>
+
+  <!-- footer tech strip -->
+  <rect x="0" y="266" width="1200" height="34" fill="#0A0E1F"/>
+  <text x="70" y="288" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#6E77A0">React.js &#8226; TypeScript &#8226; Node.js &#8226; MongoDB &#8226; Adobe Firefly API &#8226; Python</text>
+  <text x="1130" y="288" text-anchor="end" font-family="'DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#3ED6B5">Bilaspur, IN</text>
+</svg>
