@@ -54,7 +54,189 @@
 </p>
 
 ---
+---
 
+# 🚀 Featured Projects
+
+## 🌐 DBT Awareness Platform
+> React.js • Tailwind CSS • MySQL
+- Government DBT awareness platform explaining Aadhaar & DBT workflows.
+- Responsive UI with dynamic content and secure database.
+
+---
+
+## 🍽 SmartServe AI – QR Based Smart Cafeteria System
+> React Native • Node.js • Firebase • MongoDB
+- QR-based meal attendance system.
+- AI-powered analytics dashboard.
+- Student payment & employee salary management.
+- Offline-first architecture.
+
+---
+
+## 🧪 Enzyme Detection IoT Device
+> IoT • Web Dashboard
+- Real-time enzyme monitoring system.
+- Live sensor dashboard with automation.
+
+---
+
+## 🌳 VanRakshak AI – Forest Fire & Wildlife Monitoring
+> Python • TensorFlow • OpenCV • IoT
+- Forest fire prediction.
+- Wildlife movement detection.
+- Satellite imagery analysis.
+- Heatmap & alert dashboard.
+
+---
+
+## ♿ Accessibility Audit Dashboard
+> React • TypeScript • Node.js • Chart.js
+- WCAG accessibility scanner.
+- Compliance reports.
+- Accessibility score visualization.
+
+---
+
+## 🎨 Adobe Express AI Plugin
+> Adobe Express SDK • Firefly API • React
+- AI-powered image editing.
+- Content generation.
+- Productivity enhancement plugin.
+
+---
+
+## ♿ Accessibility Fixes Across Product
+> React • HTML • CSS • JavaScript
+- WCAG-compliant UI.
+- Screen reader support.
+- Keyboard navigation improvements.
+
+---
+
+## 📊 Analytics Event Tracking System
+> React • Node.js • MongoDB
+- User analytics dashboard.
+- Real-time event tracking.
+- Interactive performance reports.
+
+---
+
+## ⚙️ CI/CD Pipeline Improvement
+> GitHub Actions • Docker
+- Automated build.
+- Automated deployment.
+- Continuous Integration workflow.
+
+---
+
+## 🧩 Component Library Contribution
+> React • Storybook • TypeScript
+- Reusable UI components.
+- Scalable Design System.
+
+---
+
+## 🎨 Design Token Pipeline
+> Style Dictionary • JavaScript
+- Centralized design tokens.
+- Automated design synchronization.
+
+---
+
+## 🔥 Firefly API Integration
+> Adobe Firefly API • React
+- AI image generation.
+- Automated creative workflow.
+
+---
+
+## 📄 PDF Rendering Performance Optimization
+> React • PDF.js
+- Lazy loading.
+- Faster PDF rendering.
+- Memory optimization.
+
+---
+
+## 🤝 Real-Time Collaboration Feature
+> Socket.IO • React • Node.js
+- Live collaboration.
+- Cursor tracking.
+- Conflict resolution.
+
+---
+
+## 🔐 REST API Endpoint Development
+> Node.js • Express • MongoDB
+- Secure REST APIs.
+- Authentication.
+- CRUD operations.
+
+---
+
+## 🤖 AI-Powered Design Token Manager
+> React • OpenAI API • Figma API
+- AI-generated design tokens.
+- Theme automation.
+
+---
+
+## ✏️ Collaborative SVG Editor
+> React • SVG.js • Socket.IO
+- Live SVG editing.
+- Multi-user collaboration.
+
+---
+
+## 🎨 Color Palette Generator
+> Python • OpenCV • TensorFlow
+- AI-based image mood analysis.
+- Automatic color palette generation.
+
+---
+
+## 🖼 Screenshot-to-Code Engine
+> React • Python • OpenCV
+- Converts UI screenshots into frontend code.
+- AI-powered component generation.
+
+---
+
+## 📑 Document Version Control & Diff Viewer
+> React • Node.js • MongoDB
+- Document history.
+- Side-by-side comparison.
+
+---
+
+## 🔤 Font Pairing & Typography Playground
+> React • Tailwind CSS
+- Font experimentation.
+- Live typography preview.
+
+---
+
+## 🖼 AI Image Background Remover
+> React • Python • OpenCV
+- Background removal.
+- Cropping.
+- Image editing.
+
+---
+
+## 🎞 Motion Design Prototyper
+> React • Framer Motion
+- Timeline animations.
+- Interactive motion prototyping.
+
+---
+
+## 📚 PDF Annotation & Smart Summary Tool
+> React • Node.js • PDF.js • OpenAI API
+- PDF annotation.
+- AI summarization.
+- Smart search.
 ### 👀 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayur546411-design&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
