@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/ayush-kumar-banner (1).gif" width="100%"/>
+  <img src="./assests/ayush-kumar-banner (1).gif" width="100%"/>
 </p>
 
 ---
