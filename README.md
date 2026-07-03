@@ -67,21 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayur546411-design&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-### 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayur546411-design&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayur546411-design&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
 ---
 
 # 🚀 Featured Projects
