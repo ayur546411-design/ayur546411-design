@@ -2,11 +2,11 @@
 <h3 align="center">🚀 UI/UX Designer | MERN STACK Developer | SIH 2025 Winner</h3>
 
 <p align="center">
-  <img src="https://readme///-typing-svg.herokuapp.com/?lines=Design.+Build.+Repeat.;UI/UX+Specialist;React+%7C+Django+Developer;Creating+Next+Gen+Interfaces🔥&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Design.+Build.+Repeat.;UI/UX+Specialist;React+%7C+Django+Developer;Creating+Next+Gen+Interfaces🔥&center=true&width=550&height=50">
 </p>
 
 <p align="center">
-  <img src="./assests/ayush-kumar-banner (1).gif" width="100%"/>
+  <img src="./assests/ayus///h-kumar-banner (1).gif" width="100%"/>
 </p>
 
 ---
