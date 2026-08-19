@@ -2,7 +2,7 @@
 <h3 align="center">🚀 UI/UX Designer | MERN STACK Developer | SIH 2025 Winner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Design.+Build.+Repeat.;UI/UX+Specialist;React+%7C+Django+Developer;Creating+Next+Gen+Interfaces🔥&center=true&width=550&height=50">
+  <img src="https://readme///-typing-svg.herokuapp.com/?lines=Design.+Build.+Repeat.;UI/UX+Specialist;React+%7C+Django+Developer;Creating+Next+Gen+Interfaces🔥&center=true&width=550&height=50">
 </p>
 
 <p align="center">
@@ -16,11 +16,6 @@
 
 ## 💼 Experience
 
-### 💻 Software Development Engineer (SDE) Intern @ Adobe
-- 🚀 Built scalable frontend & backend features using React.js, TypeScript, Node.js & REST APIs.
-- 🎨 Developed AI-powered image editing features using Adobe Firefly API & Adobe Express SDK.
-- ♿ Improved accessibility with WCAG-compliant components.
-- ⚡ Worked on real-time collaboration, analytics dashboards & CI/CD workflows.
 
 ### 🚀 Summer Intern @ India Space Lab (ISL)
 - 🛰️ Drone Technology
@@ -28,7 +23,7 @@
 - 🌍 Remote Sensing & GIS
 - 🔥 Disaster Management
 
-### 🎨 UI/UX & Frontend Developer @ Object Square
+### 🎨 UI/UX & Frontend Developer 
 - Designed responsive UI using Figma & Canva.
 - Developed React.js + Tailwind applications.
 - Integrated REST APIs and improved performance.
