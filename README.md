@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">SDE Intern @ADOBE🚀 UI/UX Designer | MERN STACK Developer | SIH 2025 Winner</h3>
+<h1 align="center">Hi 👋, I'm Ayush Kumar Sinha</h1>
+<h3 align="center">Mentor @SIH'26 | SDE Intern @ADOBE🚀 UI/UX Designer | MERN STACK Developer | SIH 2025 Winner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Design.+Build.+Repeat.;UI/UX+Specialist;React+%7C+Django+Developer;Creating+Next+Gen+Interfaces🔥&center=true&width=550&height=50">
